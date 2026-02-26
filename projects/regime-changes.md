@@ -1,0 +1,1 @@
+This project examines whether political regime changes have a causal impact on economic preferences across countries. Using global survey and institutional datasets, I apply exploratory data analysis and Two-Way Fixed Effects (TWFE) regression to distinguish the effects of democratization and autocratization.
